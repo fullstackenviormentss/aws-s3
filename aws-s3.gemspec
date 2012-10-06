@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "aws-s3"
-  s.version     = '0.6.4'
+  s.version     = '0.6.5'
   s.authors     = ["Joel Friedlaender"]
   s.email       = ["joel@redguava.com.au"]
   s.homepage    = "https://github.com/redguava/aws-s3"
